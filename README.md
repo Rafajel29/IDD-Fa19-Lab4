@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Frans Fourie. Student*
 
 ## In this Report
 
@@ -8,7 +8,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+Video of my Vibration motor:
+https://youtu.be/pyZ_rPtaAtw
 
 ## Part B. Actuating Servo motors
 
