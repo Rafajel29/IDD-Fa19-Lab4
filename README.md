@@ -24,11 +24,16 @@ Orange Wire = Signal
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+Digital Pin 9
+
 **b. What aspects of the Servo code control angle or speed?**
+
+The for loops inside the main loop function is used to change the value of the pos variable. The pos variable is used to tell the servo to whitch position to move. This line of code tells the servo motor to move to the position stored in pos ```myservo.write(pos); ``` . The delay controls the time between the servo moving thus delaying the movement between positions that is controlled in this line ```delay(15); ```. The delay also gives the servo time to do the move you have instructed it so even for maximum speed a delay is necesarry and there will need to be experimented to find the minimum value for delay but delay can be incresed to slow down the movement as the motor will move at the same speed but will wait longer between moving.
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+Video of my Servo Motor in action:
+https://youtu.be/QazgTuhNJv8
 
 ## Part D. Paper puppet
 
