@@ -43,4 +43,9 @@ https://youtu.be/et45UYA08Rk
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+My photo puppet works by pressing on a softpot resistor which is also its default position else you can set a specific position using a potentiometer and then pressing a button to move it to that position. After moving to a specific position from a button press the photo puppet will return to to the state indicated by the softpot.
+
+Video of my Paper puppet that I made my own:
+https://youtu.be/AEZ2-9b6rGY
  
