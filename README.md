@@ -29,7 +29,8 @@ https://youtu.be/pyZ_rPtaAtw
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+Video of my Paper puppet:
+https://youtu.be/et45UYA08Rk
 
 ## Part E. Make it your own
 
