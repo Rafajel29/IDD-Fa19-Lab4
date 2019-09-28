@@ -16,6 +16,9 @@ https://youtu.be/pyZ_rPtaAtw
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
+Brown Wire = Ground 
+Red Wire = Power 
+Orange Wire = Signal
 
 ### Part 2. Connect the Servo to your Arduino
 
